@@ -1,0 +1,11 @@
+body
+{
+    background-color: paleturquoise;
+}
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 350px;
+}
